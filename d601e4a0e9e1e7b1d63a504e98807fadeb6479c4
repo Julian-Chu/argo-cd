@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "d601e4a0e9e1e7b1d63a504e98807fadeb6479c4",
+  "prompts": {
+    "bc9e403d3ca4ee20": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a9b1c78b-c277-4e93-8ad3-2d2ee3703bcb",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Julian-Chu",
+      "messages": [],
+      "total_additions": 8,
+      "total_deletions": 7,
+      "accepted_lines": 5,
+      "overriden_lines": 1
+    }
+  }
+}
