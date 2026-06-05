@@ -1,0 +1,37 @@
+docs/operator-manual/high_availability.md
+  c47d9759ad436e1a 646-647
+  cd288a603dff3d5e 634-641
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "867a04bb3980815877d0aee0972b54009a0c890d",
+  "prompts": {
+    "c47d9759ad436e1a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "76d83f9e-ae24-4c61-a6ff-fec8f95f1841",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Julian-Chu",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 3,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    },
+    "cd288a603dff3d5e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "929329cc-832b-46c3-a057-4c8080493dc5",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Julian-Chu",
+      "messages": [],
+      "total_additions": 8,
+      "total_deletions": 5,
+      "accepted_lines": 8,
+      "overriden_lines": 0
+    }
+  }
+}
