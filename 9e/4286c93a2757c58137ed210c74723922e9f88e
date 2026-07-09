@@ -1,0 +1,44 @@
+controller/appcontroller_test.go
+  s_1746fa06c08faa::t_ceadd0aa52e6a7 19,21-22
+  s_1746fa06c08faa::t_3c455c9d7536ec 4142-4143,4146-4148,4153-4155,4158-4161,4165-4170
+  s_1746fa06c08faa::t_ee97cd842c806f 4144-4145,4149-4152,4156-4157,4162-4164
+go.sum
+  ai_agent 879-880
+controller/appcontroller.go
+  h_18384450b64856 29-30,77-78,1656-1657,1672,1678,1682,1692,1748-1752
+  s_7244b2b74c86e6::t_39e72bac8abcf3 1659-1660
+  s_7244b2b74c86e6::t_bcbdd40d7f418e 1670-1671,1673-1677,1679-1681
+  s_7244b2b74c86e6::t_0b26abe2fdbfe2 1683-1686,1689-1691
+  s_7244b2b74c86e6::t_885a0c902f5fda 1687-1688
+  s_7244b2b74c86e6::t_ab400244611199 1733-1739,1741-1747,1754
+  s_7244b2b74c86e6::t_abfcf2781d96d2 1740
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "9e4286c93a2757c58137ed210c74723922e9f88e",
+  "prompts": {},
+  "humans": {
+    "h_18384450b64856": {
+      "author": "Julian-Chu <yulang.chu@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_1746fa06c08faa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e7e91661-2485-4fdc-88f5-7b8b9e325bbc",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Julian-Chu <yulang.chu@gmail.com>"
+    },
+    "s_7244b2b74c86e6": {
+      "agent_id": {
+        "tool": "github-copilot-jetbrains",
+        "id": "1783416132241",
+        "model": "unknown"
+      },
+      "human_author": "Julian-Chu <yulang.chu@gmail.com>"
+    }
+  }
+}
