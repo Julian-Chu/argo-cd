@@ -1,0 +1,12 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "5fe4f0ab3ec711f8c5dca0e254caba1641ac1322",
+  "prompts": {},
+  "humans": {
+    "h_18384450b64856": {
+      "author": "Julian-Chu <yulang.chu@gmail.com>"
+    }
+  }
+}
