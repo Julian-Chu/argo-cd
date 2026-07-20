@@ -1,0 +1,14 @@
+go.mod
+  h_18384450b64856 21-26,79,116,130,169,171-172,320
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "0f25498320b130e345a68bd1064d09f6738b7a75",
+  "prompts": {},
+  "humans": {
+    "h_18384450b64856": {
+      "author": "Julian-Chu <yulang.chu@gmail.com>"
+    }
+  }
+}
