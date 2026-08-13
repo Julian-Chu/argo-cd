@@ -1,0 +1,16 @@
+controller/appcontroller_test.go
+  h_18384450b64856 4197
+controller/appcontroller.go
+  h_18384450b64856 1762
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "6cbafe5fe934ca2365d2e536c2e52f98bb0265ba",
+  "prompts": {},
+  "humans": {
+    "h_18384450b64856": {
+      "author": "Julian-Chu <yulang.chu@gmail.com>"
+    }
+  }
+}
