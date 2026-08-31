@@ -1,0 +1,22 @@
+controller/appcontroller_test.go
+  s_7b57591929581f::t_484d2e520910a0 4576-4604
+  s_7b57591929581f::t_5804a8217734d9 4655,4659,4662
+  s_7b57591929581f::t_9c0a30141193f7 4728,4732
+  s_7b57591929581f::t_c61c38fa04b17c 4700,4704,4707
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "9368d3338ee6190d8d92c8affe7d6b4908a0f29a",
+  "prompts": {},
+  "sessions": {
+    "s_7b57591929581f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ed6bc6f4-f996-4a62-9452-c8ec8c954170",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Julian-Chu <yulang.chu@gmail.com>"
+    }
+  }
+}
