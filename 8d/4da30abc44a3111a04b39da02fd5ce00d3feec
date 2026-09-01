@@ -1,0 +1,27 @@
+controller/appcontroller_test.go
+  s_a655d8184a3e6a::t_d04c55b6e7dd0f 4665
+  s_a655d8184a3e6a::t_e0fba9fd0f9b74 4576-4579,4581,4590-4591,4597-4616,4629-4630,4641,4646-4648,4650-4651
+  s_a655d8184a3e6a::t_1d8ab34ba6f108 4632-4640
+  s_a655d8184a3e6a::t_31b76ea05566d2 4687
+  s_a655d8184a3e6a::t_4d65555568b9bd 4642-4645,4653
+  s_a655d8184a3e6a::t_9cf2c43fb43972 44
+  s_a655d8184a3e6a::t_29a801ea71c00d 4617,4619-4628,4631,4649,4652,4654-4664,4666-4670,4672-4686
+  s_a655d8184a3e6a::t_131aaece984d41 4671
+  s_a655d8184a3e6a::t_48961df0c9c360 4618
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "8d4da30abc44a3111a04b39da02fd5ce00d3feec",
+  "prompts": {},
+  "sessions": {
+    "s_a655d8184a3e6a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "92b1db32-c8b2-4b2c-a23d-706650f2a559",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Julian-Chu <yulang.chu@gmail.com>"
+    }
+  }
+}
