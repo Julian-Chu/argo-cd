@@ -1,0 +1,34 @@
+test/e2e/hook_test.go
+  s_ebc0607161da32::t_a539ad0c72c06f 731-737,739-751,753-775
+  s_ebc0607161da32::t_2c50e2426d416e 752
+  s_ebc0607161da32::t_01119824637bbd 738
+controller/appcontroller_test.go
+  s_2f486e8c34871e::t_e036e7446aa066 4927-4928
+  s_2f486e8c34871e::t_fb424606afc3d0 4890-4926,4929-4935
+controller/appcontroller.go
+  s_2f486e8c34871e::t_3992716b9a4786 1850-1854,1859,1861-1864,1866-1875
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "e770ebc8817d9ec1dd49d915362b4d82a38a7e09",
+  "prompts": {},
+  "sessions": {
+    "s_2f486e8c34871e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "11b68ddc-f0e2-453a-b86f-f85051d499b2",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Julian-Chu <yulang.chu@gmail.com>"
+    },
+    "s_ebc0607161da32": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "36aab1e5-9b67-4720-b94b-a4347a8be779",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Julian-Chu <yulang.chu@gmail.com>"
+    }
+  }
+}
